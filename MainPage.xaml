@@ -19,7 +19,7 @@
         <Button Text="15%" Clicked="OnNormalTip"/>
         <Button Text="20%" Clicked="OnGenerousTip"/>
 
-        <Button Text="Arredondar para baixo" x:Name="roundDown"/>
+        <Button Text="Arredondar para baixo" x:Name="roundDown" />
         <Button Text="Arredondar para cima" x:Name="roundUp"/>
     </VerticalStackLayout>
 
